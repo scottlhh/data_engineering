@@ -1,5 +1,5 @@
 -- https://datalemur.com/questions/sql-histogram-tweets
-
+-- duckdb memory db
 -- setup
 create or replace table tweets
 as 
